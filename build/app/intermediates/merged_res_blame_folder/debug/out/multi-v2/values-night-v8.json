@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ddinggo/Desktop/Project_Value/0.Flutter/1.SetFlutter/flutter_namo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/ddinggo/Desktop/Project_Value/0.Flutter/1.SetFlutter/0.Flutter_Namo_v01/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ddinggo/Desktop/Project_Value/0.Flutter/1.SetFlutter/flutter_namo/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/ddinggo/Desktop/Project_Value/0.Flutter/1.SetFlutter/0.Flutter_Namo_v01/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
